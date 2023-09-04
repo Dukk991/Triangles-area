@@ -1,0 +1,12 @@
+//Just schoolwork. Had to write code that calculates the area of an triangle when base is 7m and height 4m.
+
+#include <stdio.h>
+int main(){
+    int base = 7;
+    int height = 4;
+    int area = base*height/2;
+    printf("\nArea of triangles is %dm2 when base is 7m and height 4m\n", area, base, height);
+    return 0;
+}
+
+//Might come back to this one as well when I'm more experienced and improve it = trim it down.
